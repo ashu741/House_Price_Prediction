@@ -1,0 +1,8 @@
+Jai Hind..
+I am Ashutosh Kumar Gupta, Btech 6th sem CSE Student.
+This repository if for 6th sem mini Project.
+The topic that I have choosen for 6th sem project is "House Pricing Prediction".
+In this project we will use several dataset consisting the data about houses and firstly we will preprocess the dataset.
+then we will get the desired insight about the data in order to perform the training and testing.
+We will use several supervised machine learning models in order to predict the price of houses given their conditions,area,etc.
+I have stated working on this project on 16th of FEB 2022.
